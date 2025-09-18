@@ -1,2 +1,2 @@
-# Pattern-Recognition
-Logistic Regression
+**Breast Cancer Prediction with Logistic Regression**
+This assignment demonstrates how to build and train a logistic regression model to predict whether a breast cancer cell is malignant or benign. Using the Breast Cancer Wisconsin (Diagnostic) dataset, we walk through the essential steps of data preprocessing, model training, and evaluation. The goal is to create an accurate model that can classify cells based on their physical measurements.
